@@ -1,3 +1,13 @@
+# ultimatechallenge02
+ Student name: Chris Smith
+
+ Student ID: 0406238
+
+ Course: WEBD-3011 (255589) Agile Full Stack Web Development
+
+ Instructor: Diogo Iwasaki
+
+
 # Object Oriented Ruby Challenges
 
 A number of object-oriented coding challenges with tests lovingly borrowed from the [Exercism.io Ruby Track](http://exercism.io/languages/ruby).
@@ -70,4 +80,3 @@ If the method call (the first argument) returns `false` the test will pass. Othe
 ### Instance Methods vs Class Methods
 
 In all three cases the method call being tested might be a class method or it could be an instance method. The type of method being tested will determine the type of method you need to implement to make the tests pass. The first questions you should ask yourself for each test is: "What type of method is being tested here? Is it a class method or an instance method?"
-# ultimatechallenge02
