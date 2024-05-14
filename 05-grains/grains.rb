@@ -4,7 +4,7 @@ class Grains
     end
     def self.total
         total = 0
-        (0..63).each {|exp| total += square(exp)}
-        return total*2
+        (0..63).each {|exp| total += 2**exp}
+        return total
     end
 end
